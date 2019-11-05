@@ -1,0 +1,96 @@
+key,en,es,fr
+BallsShop.Balls,BALLS,BALONES,BALLES
+BallsShop.BasicBall,BASIC BALL,BALÓN BÁSICO,BALLON BASIQUE
+BallsShop.BasicBall.Info,ADD A NEW BALL,AÑADE UN NUEVO BALÓN,AJOUTE UN NOUVEAUX BALLON
+BallsShop.BonusBall,BONUS BALL,BALÓN DE BONUS,BALLON AVEC BONUS
+BallsShop.BonusBall.info,GIVE AN EXTRA TICKET,GANA UN TICKET EXTRA,GAGNE UN TICKET
+BallsShop.IceBall,ICE BALL,BALÓN DE HIELO,BALLON DE GLACE
+BallsShop.IceBall.Info,STOP THE TIME 1 SECOND,DETÉN EL TIEMPO 1 SEGUNDO,ARRÊTE LE TEMPS 1 SECONDE
+BallsShop.TripleBall,TRIPLE BALL,BALÓN DE TRIPLES,BALLON DE TRIPLES
+BallsShop.TripleBall.info,ADD 3 POINTS,SUMA 3 PUNTOS,AJOUTE 3 PINS
+ConfirmationPanel.AreYouSure,ARE YOU SURE?,¿ESTÁS SEGURO?,ÊTES-VOUS SÛR?
+ConfirmationPanel.EnoughtCredits,YOU DON'T HAVE ENOUGHT CREDITS,NO TIENES SUFICIENTES CRÉDITOS,TU N'AS PAS ASSEZ CRÈDITS
+ConfirmationPanel.No,NO,NO,NON
+ConfirmationPanel.Tickets,Do you want to watch a video to get tickets?,¿Quieres ver un vídeo para ganar Tickets?,
+ConfirmationPanel.Video,Do you want to watch a video to play?,¿Quieres ver un vídeo para jugar?,
+ConfirmationPanel.Yes,YES,SÍ,OUI
+InGameMenu.Stage,STAGE,FASE,SCÉNARIO
+LoosePanel.Continue,CONTINUE,CONTINUAR,CONTINUEZ
+LoosePanel.LooseInfo,YOU FAILED,HAS FALLADO,T'AS PAS REUSSI LE STAGE
+LoosePanel.Retry,BACK,VOLVER,REVENIR
+MainMenu.Button.Balls,MY BALLS,BALONES,BALLES
+MainMenu.Button.BuyMoreInShop,BUY MORE IN THE SHOP!,¡COMPRAR MÁS EN LA TIENDA!,ACHETER PLUS DANS LA BOUTIQUE
+MainMenu.Button.Invite,INVITE,INVITAR,INVITEZ
+MainMenu.Button.Logout,LOGOUT,DESCONECTAR,DÉCONNECTER
+MainMenu.Button.Login,CONNECT NOW,¡CONÉCTATE!,CONNECTEZ!
+MainMenu.Button.Play,PLAY,JUGAR,JOUER
+MainMenu.Button.Shop,SHOP,TIENDA,BOUTIQUE
+MainMenu.Button.Trophies,MY TROPHIES,MIS TROFEOS,MON TROPHÉES
+MainMenu.Button.Video,WATCH A VIDEO!,¡VER VIDEO!,REGARDEZ UNE VIDÉO!
+MainMenu.Message.Login,COMPETE WITH YOUR FRIENDS!,¡COMPITE CON TUS AMIGOS!,JOUEZ CONTRE TES AMIS!
+MainMenu.Message.Video,GET FREE COINS!,¡CONSIGUE MONEDAS!,OBTIENS DE L'ARGENT!
+MainMenu.RealMoneyPanel.12Hora,FREE PLAY FOR 12 HOURS,12 HORAS DE CRÉDITOS ILIMITADOS,JOUEZ 12 HEURES
+MainMenu.RealMoneyPanel.150Tickets,GET 500 TICKETS,CONSIGUE 500 TICKETS,OBTIEN 500 TICKETS
+MainMenu.RealMoneyPanel.1Hora,FREE PLAY FOR 1 HOUR,1 HORA DE CRÉDITOS ILIMITADOS,JOUEZ 1 HEURE
+MainMenu.RealMoneyPanel.1Semana,FREE PLAY FOR A WEEK,1 SEMANA DE CRÉDITOS ILIMITADOS,JOUEZ 1 SEMAINE
+MainMenu.RealMoneyPanel.2250Tickets,GET 6.000 TICKETS,CONSIGUE 6.000 TICKETS,OBTIEN 6000 TICKETS
+MainMenu.RealMoneyPanel.24Hora,FREE PLAY FOR 24 HOURS,24 HORAS DE CRÉDITOS ILIMITADOS,JOUEZ 24 HEURES
+MainMenu.RealMoneyPanel.3Hora,FREE PLAY FOR 3 HOURS,3 HORAS DE CRÉDITOS ILIMITADOS,JOUEZ 3 HEURES
+MainMenu.RealMoneyPanel.48Hora,FREE PLAY FOR 48 HOURS,48 HORAS DE CRÉDITOS ILIMITADOS,JOUEZ 48 HEURES
+MainMenu.RealMoneyPanel.5Tickets,GET 10 TICKETS,CONSIGUE 10 TICKETS,OBTIEN 10 TICKETS
+MainMenu.RealMoneyPanel.6000Tickets,GET 35.000 TICKETS,CONSIGUE 35.000 TICKETS,OBTIEN 35.000 TICKETS
+MainMenu.RealMoneyPanel.750Tickets,GET 2.500 TICKETS,CONSIGUE 2.500 TICKETS,OBTIEN 2.500 TICKETS
+MainMenu.RealMoneyPanel.BuyButton1,BUY 0.99,COMPRAR 0.99,ACHETER 0.99
+MainMenu.RealMoneyPanel.BuyButton2,BUY 1.99,COMPRAR 1.99,ACHETER 1.99
+MainMenu.RealMoneyPanel.BuyButton3,BUY 3.99,COMPRAR 3.99,ACHETER 3.99
+MainMenu.RealMoneyPanel.BuyButton4,BUY 5.99,COMPRAR 5.99,ACHETER 5.99
+MainMenu.RealMoneyPanel.BuyButton5,BUY 6.99,COMPRAR 6.99,ACHETER 6.99
+MainMenu.RealMoneyPanel.BuyButton6,BUY 9.99,COMPRAR 9.99,ACHETER 9.99
+MainMenu.RealMoneyPanel.BuyButton7,BUY 34.99,COMPRAR 34.99,ACHETER 34.99
+MainMenu.RealMoneyPanel.BuyButton8,BUY 39.99,COMPRAR 39.99,ACHETER 39.99
+MainMenu.SelectionWindow.Caption,SELECT A MACHINE,SELECCIONA UNA MÁQUINA,SELECTIONE UNE MACHINNE
+MainMenu.Shop.Button.Balls,BALLS,BALONES,BALLES
+MainMenu.Shop.Button.GetMore,GET,OBTÉN,AVOIR
+MainMenu.Shop.Button.Skins,SKINS,SKINS,SKINS
+MainMenu.Shop.Button.Trophies,TROPHIES,TROFEOS,TROPHÉES
+MainMenu.Shop.Label.Acquired,ADQUIRED,ADQUIRIDO,ACQUIS
+MainMenu.TapToPlay,TAP TO PLAY,TOCA PARA EMPEZAR,TAP POUR JOUER
+MainMenu.Trophies.NoTrophies,BUY TROPHIES IN THE SHOP TO UNLOCK NEW STAGES,COMPRA TROFEOS EN LA TIENDA PARA DESBLOQUEAR NUEVOS ESCENARIOS,PAS DE TROPHÉE DISPONIBLES
+PauseMenu.Exit,EXIT,SALIR,SORTIR
+Stage.BullZone,WILD ZONE,WILD ZONE,WILD ZONE
+Stage.DroneZone,NIGHT ZONE,NIGHT ZONE,NIGHT ZONE
+Stage.PlanetZone,FOREST ZONE,FOREST ZONE,FOREST ZONE
+Stage.4,OCTOPUS ZONE,OCTOPUS ZONE,OCTOPUS ZONE
+Stage.5,SEA ZONE,SEA ZONE,SEA ZONE
+StartPanel.Completed,COMPLETED,SUPERADA,SUPERÉE
+StartPanel.Get,GET,¡ANOTA,FAIT DES
+StartPanel.NextStage,NEXT STAGE:,SIGUIENTE FASE:,STAGE SUIVANT
+StartPanel.Points,POINTS!,PUNTOS!,POINTS!
+StartPanel.Start,GO!,¡VAMOS!,ALLEZ!
+Stats.Attempts,ATTEMPTS:,TIROS:,TIRS:
+Stats.Made,MADE:,ENCESTADOS:,BALLONS DANS LE PANNIERS:
+Stats.Percentage,SUCCESS RATE:,PORCENTAJE:,POURCENTAGE:
+Stats.Points,POINTS:,PUNTOS:,POINTS:
+Stats.Record,YOUR RECORD:,TU RÉCORD:,TON RÉCORD:
+Stats.RecordGlobal,RECORD:,RÉCORD:,RÉCORD:
+LoosePanel.ToShop,SHOP,TIENDA,BOUTIQUE
+PopUp.Loose,CONTINUE?,¿QUIERES CONTINUAR?,CONTINUER?
+MainMenu.HallOfFameWindow.Caption,HALL OF FAME,HALL OF FAME,HALL OF FAME
+MainMenu.HallOfFameWindow.LoginToSee,Log in to Facebook,Inicia sesión en Facebook,Log in dans Facebook
+ConfirmationPanel.WantToExit,EXIT?,¿SALIR DEL JUEGO?,SORTIR?
+ConfirmationPanel.AreYouSure,ARE YOU SURE?,¿ESTÁS SEGURO?,SURE?
+Facebook.AppInvitation,PLAY TOP REAL BASKETBALL 2016 WITH ME!,¡JUEGA CONMIGO AL TOP REAL BASKETBALL 2016!,JOUEZ AVEC MOI AU TOP REAL BASKETBALL 2016!
+Tuto.TextTuto,YOU HAVE ENOUGH TICKETS TO BUY A NEW BALL,YA TIENES SUFICIENTES TICKETS PARA COMPRAR UN NUEVO BALÓN,TU AS ASSEZ TICKETS POUR ACHETER UN NOUVEAU BALLON
+PopUp.Maquina,Unlocking this machine will cost you {0} tickets,Desbloquear esta máquina te costara {0} tickets,
+NotEnought.Tickets,You do not have enough tickets,No tienes suficientes tickets,
+NotEnought.Credits,You do not have enough credits,No tienes suficientes créditos,
+Are.You.Sure,Are you sure?,¿Estás Seguro?,
+Are.You.Sure.Match,Are you sure you want to leave the game?,¿Estás seguro que quieres abandonar la partida?,
+Loocking.Rival,Loocking for rival,Buscando rival,
+Multi.Cancel,Cancel,Cancelar,
+Multi.Wait,Waiting for rival,Esperando rival,
+Multi.Disconected,Rival disconected,Rival desconectado,
+Multi.Rematch,Rematch,Revancha,
+PopUp.NoInternet,There isn't internet connection,No hay conexión a internet,
+Not.Skin.Yet,You still do not have the ball for this skin. Are you sure?,Aún no tienes el balón para esta skin ¿Estás seguro?,
+MainMenu.Shop.Acquired,Adquired,Adquirido,Acquis
